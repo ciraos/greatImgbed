@@ -1,46 +1,58 @@
-- class_name: 主题开发者致敬
-  class_desc: 感谢你们的付出~
-  link_list:
-    - name: 开发者致敬 
-      link: 'https://www.bufferfly.cn/'
-      avatar: 'https://cdn.jsdelivr.net/gh/adminks666/bufferfly.cn/images/avatar.jpg'
-      descr: HEXO-主题Butterfly主题优秀开发魔改致
-
-- class_name: 小康大佬专属SVIP
-  class_desc: 小康专属
+class:
+  class_name: 康特CP专属
+  class_desc: awsl
   link_list:
     - name: 小康博客
       link: https://www.antmoe.com/
       avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
       descr: 一个收藏回忆与分享技术的地方！
-      #以下内容如果存在的情况下
-      #width: 1px (代表边框的大小border-width)
-      #color: "#881B12"
-
-- class_name: 乐特专属VIP
-  class_desc: 乐特大佬
-  link_list:
     - name: Lete乐特
-      link: 'https://www.lete114.top/'
-      avatar: 'https://www.lete114.top/img/avatar.png'
+      link: https://www.lete114.top/
+      avatar: https://www.lete114.top/img/avatar.png
       descr: 人生只有一次，大胆的生活！！
-      #备用头像: https://cdn.lete114.top/img/avatar.png
 
-- class_name: 友人帐
-  class_desc: 那些人，那些事
+class2:
+  class_name: 冰糖CP专属
+  class_desc: awsl
   link_list:
-    #- name: MYW
-    #  link: 'https://immyw.com/'
-    #  avatar: 'https://immyw.com/img/avatar.png'
-    #  descr: 今日事,今日畢
-    - name: Nescx
-      link: 'https://www.nesxc.com'
-      avatar: 'https://cdn-1.nesxc.com/img/avatar.jpg'
-      descr: 青石落晚巷 故人未还乡
+    - name: 小冰博客
+      link: 'https://zfe.space'
+      avatar: 'https://zfe.space/images/headimage.png'
+      descr: 做个有梦想的人！
+    - name: Akilarの糖果屋
+      link: 'https://akilar.top/'
+      avatar: 'https://akilar.top/img/siteicon/favicon.png'
+      descr: 期待您的光临！
+
+class3:
+  class_name: 大佬们
+  class_desc: dlddw
+  link_list:
+    - name: Heo
+      link: 'https://blog.zhheo.com/'
+      avatar: 'https://blog.zhheo.com/img/avatar.png'
+      descr: 爱折腾的设计师
+    - name: CC的部落格
+      link: 'https://blog.ccknbc.cc'
+      avatar: 'https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png'
+      descr: CC康纳百川
+
+class4:
+  class_name: 友人帐
+  class_desc: 小伙伴们
+  link_list:
+    - name: 灰鸿の空间
+      link: 'https://blog.huihongyhy.xyz'
+      avatar: 'https://gitee.com/huihongyhy/imgbed/raw/master/img/avatar.png'
+      descr: 一名科技爱好者的空间
     - name: 乔
       link: 'https://chen-shang.top'
-      avatar: 'https://cn.chen-shang.top/img/avatar.jpg' 
+      avatar: 'https://thirdqq.qlogo.cn/g?b=sdk&nk=3225454747&s=140' 
       descr: Let's go to 2077
+    - name: Northern Ireland
+      link: 'https://blog.micomint.top'
+      avatar: 'https://imgur.loukky.com/imgs/2021/02/ee7dc694cf5d54a3.jpg'
+      descr: 平凡的脚步也可以走出伟大的行程
     - name: Mx
       link: 'https://www.mx142.cn/'
       avatar: 'https://www.mx142.cn/medias/logo.png'
@@ -53,88 +65,44 @@
       link: 'https://forever97.top'
       avatar: 'https://forever97.top/img/avatar.png'
       descr: 在人海里梦游
-    - name: Northern Ireland
-      link: 'https://blog.micomint.top'
-      avatar: 'https://i.loli.net/2020/12/15/JCUBW61Mjm7hfbe.jpg'
-      descr: 平凡的脚步也可以走出伟大的行程
-    - name: 小冰博客
-      link: 'https://zfe.one'
-      avatar: 'https://zfe.space/images/headimage.png'
-      descr: 做个有梦想的人！
-    #- name: CC的部落格
-    #  link: 'https://blog.ccknbc.cc'
-    #  avatar: 'https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png'
-    #  descr: CC康纳百川
-    - name: xwcker 
-      link: 'https://www.hack-gov.com.cn/'
-      avatar: 'https://www.hack-gov.com.cn/img/friend_404.gif'
-      descr: 海客GO - 爱牟 听着海客的瀛谈
-      #width: 1px (代表边框的大小border-width)      
-      #color: "#881B12"
-    - name: Heo
-      link: 'https://blog.zhheo.com/'
-      avatar: 'https://blog.zhheo.com/img/avatar.png'
-      descr: 爱折腾的设计师
-    - name: By_xb
-      link: 'https://wtnl.xyz/'
-      avatar: 'https://cdn.jsdelivr.net/gh/byxiaobian/CDN//images/actor.jpg'
-      descr: 努力做一个有用的人 ! 
-      #siteshot: 'https://cdn.jsdelivr.net/gh/byxiaobian/CDN/images/20201215215747.png'
-    - name: Akilarの糖果屋
-      link: 'https://akilar.top/'
-      avatar: 'https://akilar.top/img/siteicon/favicon.png'
-      descr: 期待您的光临！
-      #siteshot: 'https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg'
+    - name: 呆逼の博客
+      link: 'https://blog.keepdai.cn/'
+      avatar: 'https://cdn.jsdelivr.net/gh/Daibi-mua/jsdelivr@1.3/logo.png'
+      descr: 一个初中生的博客
+    - name: 心雨博客
+      link: 'https://xinyu.cn'
+      avatar: 'http://q.qlogo.cn/headimg_dl?bs=qq&dst_uin=3137435185&fid=blog&spec=100'
+      descr: 倾听来自心灵的雨
+    - name: 贰猹的小窝
+      link: 'https://noionion.top'
+      avatar: 'https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg'
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
     - name: 学习与生活
       link: 'https://ql-isaac.cn/'
       avatar: 'https://image.ql-isaac.cn/站长头像.jpg'
       descr: It’s a beautiful day!
-    - name: 一川·MOLIPRE·BLOG
-      link: 'https://blog.molipre.com/'
-      avatar: 'https://p.molipre.com/img/touxiang.jpg'
-      descr: 读万卷书，行万里路
-      #siteshot: 'https://p.molipre.com/img/yichuan.png'
-    - name: 昕某人の秘密基地
-      link: 'https://www.maxin-blog.com'
-      avatar: 'https://blog-image-1300408325.file.myqcloud.com/friend.jpg'
-      descr: 昕某人的秘密基地
+    - name: Len的部落阁
+      link: 'https://lenjon.top/'
+      avatar: 'https://lenjon.top/images/avatar.gif'
+      descr: NullPointerExecption
+    - name: YdjSir
+      link: 'https://ydjsir.com.cn/'
+      avatar: 'https://ydjsir.com.cn/img/avatar.png'
+      descr: 守好我们最好的 Days！
     - name: Hushine’部落阁
       link: 'https://hxfstudy.top'
       avatar: 'https://cdn.jsdelivr.net/gh/Hushine6/imgbed/img/20200821174511.jpg'
       descr: 爱写博客的小男孩
-    - name: 南雍随笔
-      link: 'https://ydjsir.com.cn/'
-      avatar: 'https://ydjsir.com.cn/img/avatar.png'
-      descr: 守护我们美好的days！
-    - name: 头发收集屋
-      link: 'https://lenjon.top'
-      avatar: 'https://lenjon.top/images/avatar.gif'
-      descr: NullPointerExecption
-    - name: 灰鸿の空间
-      link: https://blog.huihongyhy.xyz
-      avatar: https://gitee.com/huihongyhy/imgbed/raw/master/img/avatar.png
-      descr: 一名科技爱好者的空间
-    - name: 呆逼の博客
-      lik: 'https://keepdai.cn/'
-      avatar: 'https://cdn.jsdelivr.net/gh/Daibi-mua/jsdelivr@1.3/logo.png'
-      descr: 一个初中生的博客
-    - name: 青春永不落幕
-      link: 'https://qcyblm.gitee.io/'
-      avatar: 'https://qcyblm.gitee.io/favicon.ico'
-      descr: 一位网页设计和收集Windows平台软件的爱好者。
 
-- class_name: 网站
-  class_desc: 值得推荐的网站
+class5:
+  class_name: 网站
+  class_desc: 强大的网站
   link_list:
     - name: Hexo
-      link: 'https://hexo.io/zh-tw/'
-      avatar: 'https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg'
-      descr: Blog框架
-
-- class_name: 友链失效区
-  class_desc: 小伙伴们抓紧联系窝啊！
-  link_list:
-    - name: 哒哒哒
-      link: 'https://imciraos.com/link'
-      avatar: ''
-      descr: 暂时没有哦！
+      link: 'https:/hexo.io'
+      avatar: 'https://cdn.jsdelivr.net/gh/ciraos/greatimgbed@master/HexoLogo.png'
+      descr: Hexo博客框架
+    - name: Github
+      link: 'https://github.com/'
+      avatar: 'https://github.com/favicon.ico'
+      descr: 代码托管平台
